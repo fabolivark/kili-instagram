@@ -1,0 +1,45 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-11-08 22:14+0000\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: admin/class-kili-instagram-admin.php:111
+#: admin/class-kili-instagram-admin.php:112
+msgid "Kili Instagram options"
+msgstr ""
+
+#: admin/class-kili-instagram-admin.php:118
+msgid "Access token"
+msgstr ""
+
+#: admin/class-kili-instagram-admin.php:124
+msgid "Access token string"
+msgstr ""
+
+#: admin/class-kili-instagram-admin.php:132
+msgid "Number of posts to show"
+msgstr ""
+
+#. Name of the plugin
+msgid "Kili Instagram"
+msgstr ""
+
+#. Description of the plugin
+msgid "Generate instagram feed object. Use the function get_instagram_feed()"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/koombea/kili-instagram"
+msgstr ""
+
+#. Author of the plugin
+msgid "Koombea, Rhonalf Martinez"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.koombea.com/"
+msgstr ""

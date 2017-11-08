@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-11-08 22:15+0000\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"PO-Revision-Date: 2017-11-08 22:15+0000\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Project-Id-Version: Kili Instagram\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: rhonalf <rhonalf.martinez@koombea.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: admin/class-kili-instagram-admin.php:132
+msgid "Number of posts to show"
+msgstr "Número de posts a mostrar"
+
+#: admin/class-kili-instagram-admin.php:111
+#: admin/class-kili-instagram-admin.php:112
+msgid "Kili Instagram options"
+msgstr "Opciones de Kili Instagram"
+
+#: admin/class-kili-instagram-admin.php:118
+msgid "Access token"
+msgstr "Token de acceso"
+
+#: admin/class-kili-instagram-admin.php:124
+msgid "Access token string"
+msgstr "Cadena del token de acceso"
+
+#. Name of the plugin
+msgid "Kili Instagram"
+msgstr "Kili Instagram"
+
+#. Description of the plugin
+msgid "Generate instagram feed object. Use the function get_instagram_feed()"
+msgstr ""
+"Genera un objeto con el feed de instagram. Usa la función "
+"get_instagram_feed() para obtenerlo"
+
+#. URI of the plugin
+msgid "https://github.com/koombea/kili-instagram"
+msgstr "https://github.com/koombea/kili-instagram"
+
+#. Author of the plugin
+msgid "Koombea, Rhonalf Martinez"
+msgstr "Koombea, Rhonalf Martinez"
+
+#. Author URI of the plugin
+msgid "https://www.koombea.com/"
+msgstr "https://www.koombea.com/"

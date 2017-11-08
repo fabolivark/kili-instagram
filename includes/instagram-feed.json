@@ -1,0 +1,71 @@
+[
+  {
+    "key": "group_595c2134f1c0f",
+    "title": "Instagram feed",
+    "fields": [
+      {
+        "key": "field_595c213d99c8d",
+        "label": "Instagram block",
+        "name": "instagram_block",
+        "type": "flexible_content",
+        "instructions": "",
+        "required": 0,
+        "conditional_logic": 0,
+        "wrapper": {
+          "width": "",
+          "class": "",
+          "id": ""
+        },
+        "layouts": {
+          "595c21466d9f1": {
+            "key": "595c21466d9f1",
+            "name": "instagram_feed",
+            "label": "Instagram feed",
+            "display": "block",
+            "sub_fields": [
+              {
+                "key": "field_595c214c99c8e",
+                "label": "Message",
+                "name": "",
+                "type": "message",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                  "width": "",
+                  "class": "",
+                  "id": ""
+                },
+                "message": "Puts an instagram feed block",
+                "new_lines": "wpautop",
+                "esc_html": 0
+              }
+            ],
+            "min": "",
+            "max": ""
+          }
+        },
+        "button_label": "Agregar Fila",
+        "min": "",
+        "max": ""
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "post_type",
+          "operator": "==",
+          "value": "page"
+        }
+      ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 0,
+    "description": ""
+  }
+]
